@@ -1,0 +1,69 @@
+.container {
+    margin: 0 auto;
+    width: 650px;
+    border: 1px solid black;
+}
+.redondo
+    {
+    border-radius: 100%;
+    margin-left:220px;
+    width: 150px;
+    margin-top: 15px;
+        }
+h1,p
+    {
+       text-align: center; 
+    }
+
+
+
+.html,.css,.java{
+	height: 30px;
+	background: grey;
+	line-height: 30px;
+	color:white;
+	padding:10px;
+}
+.html{
+	width: 450px;
+	margin-bottom: 20px;
+    margin-top: 20px;
+}
+.css{
+	width: 350px;
+	margin-bottom: 20px;
+    margin-top: 20px;
+}
+.java {
+	width: 250px;
+    margin-top: 20px;
+    margin-top: 20px;
+}
+
+html
+    {
+     
+    }
+
+p
+    {
+    padding: 35px;
+    }
+
+.habilidades
+{
+  padding: 0 0 30px 30px;
+ 
+}
+
+
+
+.portafolio
+    {
+    position: relative;
+    padding:0 0 30px 30px;
+    }
+.uno,.dos, .tres, .cuatro ,.cinco,.seis{
+    width: 172px;
+    padding: 10px;
+}
